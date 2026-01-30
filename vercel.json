@@ -1,6 +1,5 @@
 {
   "framework": null,
-  "rewrites": [
-    { "source": "/", "destination": "/war_thunder_rp_rechner.html" }
-  ]
+  "buildCommand": null,
+  "outputDirectory": "."
 }

@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>War Thunder RP Rechner</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="min-h-screen bg-neutral-900 text-white flex items-center justify-center p-4">
+
+<div class="w-full max-w-2xl bg-neutral-800 rounded-2xl shadow-xl p-6 space-y-6">
+  <h1 class="text-2xl font-bold">Grind Calculator - War Thunder</h1>
+
+  <div class="bg-neutral-900 p-4 rounded-xl">
+    <div class="grid grid-cols-2 gap-4">
+      <div>
+        <label class="block text-sm font-semibold mb-2">Total RP</label>
+        <input id="totalRP" type="number" placeholder="Total RP" class="w-full p-2 rounded bg-neutral-800" />
+      </div>
+      <div class="row-span-2">
+        <div class="w-full h-full bg-gradient-to-br from-green-600 to-green-700 rounded-xl p-4 text-center flex flex-col justify-center">
+          <p class="text-sm text-green-100 mb-2">Research Progress</p>
+          <p class="text-3xl font-bold text-white mb-3" id="progressPercent">0%</p>
+          <div class="w-full bg-green-900 rounded-full h-3 overflow-hidden">
+            <div id="progressBar" class="bg-green-300 h-full rounded-full transition-all duration-300" style="width: 0%"></div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <label class="block text-sm font-semibold mb-2">Farmed RP</label>
+        <input id="currentRP" type="number" placeholder="Current RP" class="w-full p-2 rounded bg-neutral-800" />
+      </div>
+    </div>
+  </div>
+
+  <div class="bg-neutral-900 p-4 rounded-xl space-y-3">
+    <div>
+      <label class="block text-sm font-semibold mb-2">Match Results</label>
+      <input id="roundRP" type="number" placeholder="RP earned" class="w-full p-2 rounded bg-neutral-800 border-2 border-neutral-700 focus:border-blue-500 focus:outline-none transition" />
+    </div>
+
+    <div class="flex gap-2">
+      <input id="roundMin" type="number" placeholder="Min" class="w-20 p-2 rounded bg-neutral-800 border-2 border-neutral-700 focus:border-blue-500 focus:outline-none transition" />
+      <span class="flex items-center">:</span>
+      <input id="roundSec" type="number" placeholder="Sec" class="w-20 p-2 rounded bg-neutral-800 border-2 border-neutral-700 focus:border-blue-500 focus:outline-none transition" />
+      <button id="addRound" class="ml-auto bg-green-600 hover:bg-green-500 px-4 rounded">Add</button>
+      <button id="clearAllRounds" class="bg-red-600 hover:bg-red-500 px-4 rounded">Clear All</button>
+    </div>
+
+    <ul id="roundList" class="space-y-1"></ul>
+  </div>
+
+  <div class="bg-neutral-900 p-4 rounded-xl">
+    <div class="grid grid-cols-2 gap-4">
+      <select id="mode" class="p-2 rounded bg-neutral-800 text-lg">
+        <option value="AB">Arcade Battles</option>
+        <option value="RB" selected>Realistic Battles</option>
+        <option value="SB">Simulator Battles</option>
+      </select>
+      <div class="space-y-2">
+        <label class="flex items-center gap-2 cursor-pointer">
+          <input id="premium" type="checkbox" class="hidden" />
+          <div id="premiumToggle" class="w-6 h-6 rounded bg-neutral-700 border-2 border-neutral-600 flex items-center justify-center transition-all hover:border-cyan-500"></div>
+          <span>Premium Account</span>
+        </label>
+        <label class="flex items-center">Booster: <input id="boosterPercent" type="number" min="0" max="500" step="1" value="0" class="w-24 ml-2 p-2 rounded bg-neutral-700 border border-neutral-600" /> <span class="ml-2">%</span></label>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid grid-cols-3 gap-4">
+    <div class="bg-gradient-to-br from-blue-600 to-blue-700 p-4 rounded-xl text-center">
+      <p class="text-sm text-blue-100 mb-2">Average RP / Match</p>
+      <p class="text-3xl font-bold text-white" id="avgRP">0</p>
+    </div>
+    <div class="bg-gradient-to-br from-amber-600 to-amber-700 p-4 rounded-xl text-center">
+      <p class="text-sm text-amber-100 mb-2">Matches needed</p>
+      <p class="text-3xl font-bold text-white" id="matches">0</p>
+    </div>
+    <div class="bg-gradient-to-br from-purple-600 to-purple-700 p-4 rounded-xl text-center">
+      <p class="text-sm text-purple-100 mb-2">Total time needed</p>
+      <p class="text-3xl font-bold text-white" id="time">0h 0min</p>
+    </div>
+  </div>
+
+  <div class="bg-gradient-to-br from-red-600 to-red-700 p-4 rounded-xl text-center">
+    <p class="text-sm text-red-100 mb-2">Average RP / minute</p>
+    <p class="text-3xl font-bold text-white" id="avgRPPerMin">0</p>
+  </div>
+</div>
+
+<script>
+const STORAGE_KEY = 'wt-rp-calculator';
+let rounds = [];
+
+// --- helpers ---
+function avgRP() {
+  return rounds.length ? rounds.reduce((a,b)=>a+b.rp,0)/rounds.length : 0;
+}
+function avgTime() {
+  return rounds.length ? rounds.reduce((a,b)=>a+b.time,0)/rounds.length : 0;
+}
+
+// --- tests ---
+console.assert(avgRP() === 0, 'avgRP empty');
+console.assert(avgTime() === 0, 'avgTime empty');
+
+function render() {
+  const totalRP = +totalRPInput.value || 0;
+  const currentRP = +currentRPInput.value || 0;
+  const remaining = Math.max(totalRP - currentRP, 0);
+  
+  const progress = totalRP > 0 ? Math.round((currentRP / totalRP) * 100) : 0;
+
+  const modeMul = mode.value === 'AB' ? 0.7 : mode.value === 'SB' ? 1.3 : 1;
+  const premiumMul = premium.checked ? 2 : 1;
+  const boosterPct = +boosterPercent.value || 0;
+  const boosterMul = 1 + (boosterPct / 100);
+
+  const effRP = avgRP() * modeMul * premiumMul * boosterMul;
+  const matches = effRP ? Math.ceil(remaining / effRP) : 0;
+  const time = Math.round(matches * avgTime());
+
+  avgRPOut.textContent = Math.round(avgRP());
+  matchesOut.textContent = matches;
+  timeOut.textContent = `${Math.floor(time/3600)}h ${Math.floor((time%3600)/60)}min`;
+  progressPercent.textContent = `${progress}%`;
+  progressBar.style.width = `${progress}%`;
+  
+  const avgTimeVal = avgTime();
+  const rpPerMin = avgTimeVal > 0 ? Math.round((avgRP() / avgTimeVal) * 60) : 0;
+  avgRPPerMinOut.textContent = rpPerMin;
+
+  roundList.innerHTML = '';
+  rounds.forEach((r,i)=>{
+    const li = document.createElement('li');
+    li.className = 'flex justify-between bg-neutral-800 px-3 py-1 rounded';
+    li.innerHTML = `<span>${r.rp} RP · ${Math.floor(r.time/60)}m ${r.time%60}s</span><button class="text-red-400">✕</button>`;
+    li.querySelector('button').onclick = ()=>{
+      rounds.splice(i,1);
+      currentRPInput.value = Math.max((+currentRPInput.value||0) - r.rp, 0);
+      save(); render();
+    };
+    roundList.appendChild(li);
+  });
+}
+
+
+function save() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify({
+    rounds,
+    totalRP: totalRPInput.value,
+    currentRP: currentRPInput.value,
+    mode: mode.value,
+    premium: premium.checked,
+    boosterPercent: boosterPercent.value
+  }));
+}
+
+function load() {
+  const d = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+  rounds = d.rounds || [];
+  totalRPInput.value = d.totalRP || 0;
+  currentRPInput.value = d.currentRP || 0;
+  mode.value = d.mode || 'RB';
+  premium.checked = d.premium || false;
+  if (d.boosterPercent != null) {
+    boosterPercent.value = d.boosterPercent;
+  } else {
+    boosterPercent.value = d.booster ? 50 : 0;
+  }
+}
+
+const totalRPInput = document.getElementById('totalRP');
+const currentRPInput = document.getElementById('currentRP');
+const roundRPInput = document.getElementById('roundRP');
+const roundMinInput = document.getElementById('roundMin');
+const roundSecInput = document.getElementById('roundSec');
+const addRoundBtn = document.getElementById('addRound');
+const roundList = document.getElementById('roundList');
+const clearAllRoundsBtn = document.getElementById('clearAllRounds');
+const mode = document.getElementById('mode');
+const premium = document.getElementById('premium');
+const premiumToggle = document.getElementById('premiumToggle');
+const boosterPercent = document.getElementById('boosterPercent');
+const avgRPOut = document.getElementById('avgRP');
+const matchesOut = document.getElementById('matches');
+const timeOut = document.getElementById('time');
+const progressPercent = document.getElementById('progressPercent');
+const progressBar = document.getElementById('progressBar');
+const avgRPPerMinOut = document.getElementById('avgRPPerMin');
+
+// Premium Toggle Styling
+function updatePremiumToggle() {
+  if (premium.checked) {
+    premiumToggle.classList.add('bg-cyan-600', 'border-cyan-500');
+    premiumToggle.classList.remove('bg-neutral-700', 'border-neutral-600');
+    premiumToggle.innerHTML = '✓';
+  } else {
+    premiumToggle.classList.add('bg-neutral-700', 'border-neutral-600');
+    premiumToggle.classList.remove('bg-cyan-600', 'border-cyan-500');
+    premiumToggle.innerHTML = '';
+  }
+}
+
+premiumToggle.onclick = () => {
+  premium.checked = !premium.checked;
+  updatePremiumToggle();
+  save();
+  render();
+};
+
+addRoundBtn.onclick = ()=>{
+  const rp = +roundRPInput.value || 0;
+  const t = (+roundMinInput.value||0)*60 + (+roundSecInput.value||0);
+  if (rp>0 && t>0) {
+    rounds.push({ rp, time:t });
+    currentRPInput.value = (+currentRPInput.value||0) + rp;
+    roundRPInput.value = roundMinInput.value = roundSecInput.value = '';
+    save(); render();
+  }
+};
+
+clearAllRoundsBtn.onclick = ()=>{
+  if (rounds.length > 0 && confirm('Are you sure you want to delete all rounds?')) {
+    rounds = [];
+    currentRPInput.value = 0;
+    save(); render();
+  }
+};
+
+[totalRPInput,currentRPInput,mode,premium,boosterPercent].forEach(el=>el.onchange=()=>{save();render();});
+
+load();
+updatePremiumToggle();
+render();
+</script>
+</body>
+</html>
