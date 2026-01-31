@@ -24,6 +24,7 @@
           <div class="w-full bg-green-900 rounded-full h-3 overflow-hidden">
             <div id="progressBar" class="bg-green-300 h-full rounded-full transition-all duration-300" style="width: 0%"></div>
           </div>
+          <p class="text-sm text-green-100 mt-2">Noch <span id="remainingRP">0</span> RP</p>
         </div>
       </div>
       <div>
@@ -126,7 +127,8 @@ function render() {
   timeOut.textContent = `${Math.floor(time/3600)}h ${Math.floor((time%3600)/60)}min`;
   progressPercent.textContent = `${progress}%`;
   progressBar.style.width = `${progress}%`;
-  
+  remainingRPOut.textContent = remaining.toLocaleString('de-DE');
+
   const avgTimeVal = avgTime();
   const rpPerMin = avgTimeVal > 0 ? Math.round((avgRP() / avgTimeVal) * 60) : 0;
   avgRPPerMinOut.textContent = rpPerMin;
@@ -189,6 +191,7 @@ const timeOut = document.getElementById('time');
 const progressPercent = document.getElementById('progressPercent');
 const progressBar = document.getElementById('progressBar');
 const avgRPPerMinOut = document.getElementById('avgRPPerMin');
+const remainingRPOut = document.getElementById('remainingRP');
 
 // Premium Toggle Styling
 function updatePremiumToggle() {
