@@ -51,23 +51,7 @@
     <ul id="roundList" class="space-y-1"></ul>
   </div>
 
-  <div class="bg-neutral-900 p-4 rounded-xl">
-    <div class="grid grid-cols-2 gap-4">
-      <select id="mode" class="p-2 rounded bg-neutral-800 text-lg">
-        <option value="AB">Arcade Battles</option>
-        <option value="RB" selected>Realistic Battles</option>
-        <option value="SB">Simulator Battles</option>
-      </select>
-      <div class="space-y-2">
-        <label class="flex items-center gap-2 cursor-pointer">
-          <input id="premium" type="checkbox" class="hidden" />
-          <div id="premiumToggle" class="w-6 h-6 rounded bg-neutral-700 border-2 border-neutral-600 flex items-center justify-center transition-all hover:border-cyan-500"></div>
-          <span>Premium Account</span>
-        </label>
-        <label class="flex items-center">Booster: <input id="boosterPercent" type="number" min="0" max="500" step="1" value="0" class="w-24 ml-2 p-2 rounded bg-neutral-700 border border-neutral-600" /> <span class="ml-2">%</span></label>
-      </div>
-    </div>
-  </div>
+  <!-- Battle-Mode Auswahl entfernt, der Rechner arbeitet nun allgemein mit den eingegebenen RP-Daten -->
 
   <div class="grid grid-cols-3 gap-4">
     <div class="bg-gradient-to-br from-blue-600 to-blue-700 p-4 rounded-xl text-center">
@@ -113,12 +97,7 @@ function render() {
   
   const progress = totalRP > 0 ? Math.round((currentRP / totalRP) * 100) : 0;
 
-  const modeMul = mode.value === 'AB' ? 0.7 : mode.value === 'SB' ? 1.3 : 1;
-  const premiumMul = premium.checked ? 2 : 1;
-  const boosterPct = +boosterPercent.value || 0;
-  const boosterMul = 1 + (boosterPct / 100);
-
-  const effRP = avgRP() * modeMul * premiumMul * boosterMul;
+  const effRP = avgRP();
   const matches = effRP ? Math.ceil(remaining / effRP) : 0;
   const time = Math.round(matches * avgTime());
 
@@ -152,10 +131,7 @@ function save() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify({
     rounds,
     totalRP: totalRPInput.value,
-    currentRP: currentRPInput.value,
-    mode: mode.value,
-    premium: premium.checked,
-    boosterPercent: boosterPercent.value
+    currentRP: currentRPInput.value
   }));
 }
 
@@ -164,13 +140,6 @@ function load() {
   rounds = d.rounds || [];
   totalRPInput.value = d.totalRP || 0;
   currentRPInput.value = d.currentRP || 0;
-  mode.value = d.mode || 'RB';
-  premium.checked = d.premium || false;
-  if (d.boosterPercent != null) {
-    boosterPercent.value = d.boosterPercent;
-  } else {
-    boosterPercent.value = d.booster ? 50 : 0;
-  }
 }
 
 const totalRPInput = document.getElementById('totalRP');
@@ -181,10 +150,6 @@ const roundSecInput = document.getElementById('roundSec');
 const addRoundBtn = document.getElementById('addRound');
 const roundList = document.getElementById('roundList');
 const clearAllRoundsBtn = document.getElementById('clearAllRounds');
-const mode = document.getElementById('mode');
-const premium = document.getElementById('premium');
-const premiumToggle = document.getElementById('premiumToggle');
-const boosterPercent = document.getElementById('boosterPercent');
 const avgRPOut = document.getElementById('avgRP');
 const matchesOut = document.getElementById('matches');
 const timeOut = document.getElementById('time');
@@ -192,26 +157,6 @@ const progressPercent = document.getElementById('progressPercent');
 const progressBar = document.getElementById('progressBar');
 const avgRPPerMinOut = document.getElementById('avgRPPerMin');
 const remainingRPOut = document.getElementById('remainingRP');
-
-// Premium Toggle Styling
-function updatePremiumToggle() {
-  if (premium.checked) {
-    premiumToggle.classList.add('bg-cyan-600', 'border-cyan-500');
-    premiumToggle.classList.remove('bg-neutral-700', 'border-neutral-600');
-    premiumToggle.innerHTML = '✓';
-  } else {
-    premiumToggle.classList.add('bg-neutral-700', 'border-neutral-600');
-    premiumToggle.classList.remove('bg-cyan-600', 'border-cyan-500');
-    premiumToggle.innerHTML = '';
-  }
-}
-
-premiumToggle.onclick = () => {
-  premium.checked = !premium.checked;
-  updatePremiumToggle();
-  save();
-  render();
-};
 
 addRoundBtn.onclick = ()=>{
   const rp = +roundRPInput.value || 0;
@@ -232,10 +177,9 @@ clearAllRoundsBtn.onclick = ()=>{
   }
 };
 
-[totalRPInput,currentRPInput,mode,premium,boosterPercent].forEach(el=>el.onchange=()=>{save();render();});
+[totalRPInput,currentRPInput].forEach(el=>el.onchange=()=>{save();render();});
 
 load();
-updatePremiumToggle();
 render();
 </script>
 </body>
