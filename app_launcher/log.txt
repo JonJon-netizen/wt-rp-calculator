@@ -1,0 +1,1143 @@
+[20:13:14] App gestartet.
+[20:13:14] Starte Listener auf Port 5050...
+[20:13:14] Server läuft!
+[20:13:14] Request: GET /
+[20:13:14] Request: GET /api/apps
+[20:13:14] Request: GET /api/icon
+[20:13:14] Request: GET /favicon.ico
+[20:13:20] Request: POST /api/add
+[20:13:26] Request: POST /api/add
+[20:13:29] Request: GET /api/apps
+[20:13:32] Request: POST /api/add
+[20:13:42] Request: GET /api/apps
+[20:13:42] Request: GET /api/apps
+[20:13:43] Request: GET /api/apps
+[20:13:44] Request: GET /api/apps
+[20:13:46] Request: POST /api/add
+[20:13:59] Request: GET /api/apps
+[20:14:04] Request: GET /api/apps
+[20:18:28] App gestartet.
+[20:18:28] Starte Listener auf Port 5050...
+[20:18:28] Server läuft!
+[20:18:29] Request: GET /
+[20:18:29] Request: GET /api/apps
+[20:18:29] Request: GET /api/icon
+[20:18:29] Request: GET /api/icon
+[20:18:29] Request: GET /api/icon
+[20:18:29] Request: GET /api/icon
+[20:18:29] Request: GET /api/icon
+[20:18:29] Request: GET /api/icon
+[20:18:29] Request: GET /api/icon
+[20:18:29] Request: GET /api/icon
+[20:18:29] Request: GET /api/icon
+[20:18:29] Request: GET /api/icon
+[20:18:29] Request: GET /api/icon
+[20:18:29] Request: GET /api/icon
+[20:18:29] Request: GET /api/icon
+[20:18:40] Request: POST /api/launch
+[20:18:44] Request: GET /api/apps
+[20:18:51] App gestartet.
+[20:18:51] Starte Listener auf Port 5050...
+[20:18:51] CRASH: Fehler beim Abhören von Präfix http://127.0.0.1:5050/, da es mit einer vorhandenen Registrierung auf dem Computer in Konflikt steht.
+[20:21:41] App gestartet.
+[20:21:41] Starte Listener auf Port 5050...
+[20:21:41] Server läuft!
+[20:21:41] Browser im App-Modus gestartet.
+[20:21:42] Request: GET /
+[20:21:42] Request: GET /api/apps
+[20:21:42] Request: GET /favicon.ico
+[20:21:42] Request: GET /api/icon
+[20:21:42] Request: GET /api/icon
+[20:21:42] Request: GET /api/icon
+[20:21:42] Request: GET /api/icon
+[20:21:42] Request: GET /api/icon
+[20:21:42] Request: GET /api/icon
+[20:21:42] Request: GET /api/icon
+[20:21:42] Request: GET /api/icon
+[20:21:42] Request: GET /api/icon
+[20:22:01] App gestartet.
+[20:22:01] Starte Listener auf Port 5050...
+[20:22:01] Server läuft!
+[20:22:01] Browser im App-Modus gestartet.
+[20:22:02] Request: GET /
+[20:22:02] Request: GET /api/apps
+[20:22:02] Request: GET /api/icon
+[20:22:02] Request: GET /api/icon
+[20:22:02] Request: GET /api/icon
+[20:22:02] Request: GET /api/icon
+[20:22:02] Request: GET /api/icon
+[20:22:02] Request: GET /api/icon
+[20:22:02] Request: GET /api/icon
+[20:22:02] Request: GET /api/icon
+[20:22:02] Request: GET /favicon.ico
+[20:28:06] App gestartet.
+[20:28:06] Starte Listener auf Port 5050...
+[20:28:06] Server läuft!
+[20:28:06] Browser im App-Modus gestartet.
+[20:28:06] Request: GET /
+[20:28:06] Request: GET /icon.png
+[20:28:06] Request: GET /api/apps
+[20:28:06] Request: GET /api/icon
+[20:28:06] Request: GET /api/icon
+[20:28:06] Request: GET /api/icon
+[20:28:06] Request: GET /api/icon
+[20:28:06] Request: GET /api/icon
+[20:28:06] Request: GET /api/icon
+[20:28:06] Request: GET /api/icon
+[20:28:06] Request: GET /api/icon
+[20:28:06] Request: GET /api/icon
+[20:28:06] Request: GET /api/icon
+[20:28:06] Request: GET /icon.png
+[20:28:12] App gestartet.
+[20:28:12] Starte Listener auf Port 5050...
+[20:28:12] CRASH: Fehler beim Abhören von Präfix http://127.0.0.1:5050/, da es mit einer vorhandenen Registrierung auf dem Computer in Konflikt steht.
+[20:28:22] App gestartet.
+[20:28:22] Starte Listener auf Port 5050...
+[20:28:22] CRASH: Fehler beim Abhören von Präfix http://127.0.0.1:5050/, da es mit einer vorhandenen Registrierung auf dem Computer in Konflikt steht.
+[20:29:32] App gestartet.
+[20:29:32] Starte Listener auf Port 5050...
+[20:29:32] Server läuft!
+[20:29:32] Browser im App-Modus gestartet.
+[20:29:32] Request: GET /
+[20:29:32] Request: GET /icon.png
+[20:29:32] Request: GET /api/apps
+[20:29:32] Request: GET /api/icon
+[20:29:32] Request: GET /api/icon
+[20:29:32] Request: GET /api/icon
+[20:29:32] Request: GET /api/icon
+[20:29:32] Request: GET /api/icon
+[20:29:32] Request: GET /api/icon
+[20:29:32] Request: GET /api/icon
+[20:29:32] Request: GET /api/icon
+[20:29:32] Request: GET /api/icon
+[20:29:32] Request: GET /api/icon
+[20:29:32] Request: GET /api/icon
+[20:29:32] Request: GET /api/icon
+[20:29:32] Request: GET /icon.png
+[20:29:32] Request: GET /api/icon
+[20:29:37] App gestartet.
+[20:29:37] Starte Listener auf Port 5050...
+[20:29:37] Server läuft!
+[20:29:37] Browser im App-Modus gestartet.
+[20:29:37] Request: GET /
+[20:29:37] Request: GET /icon.png
+[20:29:37] Request: GET /api/apps
+[20:29:37] Request: GET /api/icon
+[20:29:37] Request: GET /api/icon
+[20:29:37] Request: GET /api/icon
+[20:29:37] Request: GET /api/icon
+[20:29:37] Request: GET /api/icon
+[20:29:37] Request: GET /api/icon
+[20:29:37] Request: GET /api/icon
+[20:29:37] Request: GET /api/icon
+[20:29:37] Request: GET /api/icon
+[20:29:37] Request: GET /api/icon
+[20:29:37] Request: GET /api/icon
+[20:29:37] Request: GET /api/icon
+[20:29:37] Request: GET /api/icon
+[20:31:36] App gestartet.
+[20:31:36] Starte Listener auf Port 5050...
+[20:31:36] Server läuft!
+[20:31:36] Browser im App-Modus gestartet.
+[20:31:36] Request: GET /
+[20:31:36] Request: GET /icon.png
+[20:31:36] Request: GET /api/apps
+[20:31:36] Request: GET /api/proxy
+[20:31:36] Proxy: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:31:36] Request: GET /api/proxy
+[20:31:36] Proxy: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:31:36] Request: GET /api/proxy
+[20:31:36] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:31:36] Request: GET /api/proxy
+[20:31:36] Proxy: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:31:36] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:31:36] Request: GET /api/proxy
+[20:31:36] Proxy: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:31:36] Request: GET /api/proxy
+[20:31:36] Proxy: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:31:36] Proxy: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:31:36] Request: GET /api/proxy
+[20:31:36] Proxy: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:31:37] Request: GET /api/proxy
+[20:31:37] Proxy: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:31:37] Request: GET /api/proxy
+[20:31:37] Proxy: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:31:37] Request: GET /api/proxy
+[20:31:37] Proxy: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:31:37] Request: GET /api/proxy
+[20:31:37] Proxy: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:31:37] Request: GET /api/proxy
+[20:31:37] Proxy: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:31:37] Request: GET /icon.png
+[20:31:37] Request: GET /api/icon
+[20:31:37] Request: GET /api/icon
+[20:31:37] Request: GET /api/icon
+[20:31:37] Request: GET /api/icon
+[20:31:37] Request: GET /api/icon
+[20:31:37] Request: GET /api/icon
+[20:31:37] Request: GET /api/icon
+[20:31:37] Request: GET /api/icon
+[20:31:37] Request: GET /api/icon
+[20:31:37] Request: GET /api/icon
+[20:31:37] Request: GET /api/icon
+[20:31:37] Request: GET /api/icon
+[20:31:51] Request: GET /api/apps
+[20:31:51] Request: GET /api/proxy
+[20:31:51] Request: GET /api/proxy
+[20:31:51] Proxy: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:31:51] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:31:51] Request: GET /api/proxy
+[20:31:51] Proxy: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:31:51] Proxy: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:31:51] Request: GET /api/proxy
+[20:31:51] Proxy: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:31:51] Request: GET /api/proxy
+[20:31:51] Proxy: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:31:51] Request: GET /api/proxy
+[20:31:51] Proxy: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:31:51] Request: GET /api/proxy
+[20:31:51] Proxy: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:31:51] Request: GET /api/proxy
+[20:31:51] Proxy: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:31:51] Request: GET /api/proxy
+[20:31:51] Proxy: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:31:51] Request: GET /api/proxy
+[20:31:51] Proxy: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:31:51] Request: GET /api/proxy
+[20:31:51] Proxy: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:31:55] Request: GET /
+[20:31:55] Request: GET /icon.png
+[20:31:55] Request: GET /api/apps
+[20:31:55] Request: GET /api/proxy
+[20:31:55] Proxy: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:31:55] Request: GET /api/proxy
+[20:31:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:31:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:31:55] Request: GET /api/proxy
+[20:31:55] Request: GET /api/proxy
+[20:31:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:31:55] Proxy: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:31:55] Request: GET /api/proxy
+[20:31:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:31:55] Request: GET /api/proxy
+[20:31:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:31:55] Request: GET /api/proxy
+[20:31:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:31:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:31:55] Request: GET /api/proxy
+[20:31:55] Proxy: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:31:55] Request: GET /api/proxy
+[20:31:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:31:55] Request: GET /api/proxy
+[20:31:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:31:55] Request: GET /api/proxy
+[20:31:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:31:55] Request: GET /icon.png
+[20:31:55] Request: GET /api/icon
+[20:31:55] Request: GET /api/icon
+[20:31:55] Request: GET /api/icon
+[20:31:55] Request: GET /api/icon
+[20:31:55] Request: GET /api/icon
+[20:31:55] Request: GET /api/icon
+[20:31:55] Request: GET /api/icon
+[20:31:55] Request: GET /api/icon
+[20:31:55] Request: GET /api/icon
+[20:31:55] Request: GET /api/icon
+[20:31:55] Request: GET /api/icon
+[20:31:55] Request: GET /api/icon
+[20:31:55] Request: GET /api/icon
+[20:32:06] Request: GET /api/apps
+[20:32:06] Request: GET /api/proxy
+[20:32:06] Proxy: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:32:06] Request: GET /api/proxy
+[20:32:06] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:32:06] Request: GET /api/proxy
+[20:32:06] Proxy: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:32:06] Request: GET /api/proxy
+[20:32:06] Proxy: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:32:06] Proxy: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:32:07] Request: GET /api/proxy
+[20:32:07] Proxy: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:32:07] Request: GET /api/proxy
+[20:32:07] Proxy: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:32:07] Request: GET /api/proxy
+[20:32:07] Proxy: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:32:07] Request: GET /api/proxy
+[20:32:07] Proxy: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:32:07] Request: GET /api/proxy
+[20:32:07] Proxy: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:32:07] Request: GET /api/proxy
+[20:32:07] Proxy: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:32:10] Request: GET /api/apps
+[20:32:10] Request: GET /api/proxy
+[20:32:10] Request: GET /api/proxy
+[20:32:10] Proxy: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:32:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:32:10] Request: GET /api/proxy
+[20:32:10] Proxy: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:32:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:32:10] Request: GET /api/proxy
+[20:32:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:32:10] Request: GET /api/proxy
+[20:32:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:32:10] Request: GET /api/proxy
+[20:32:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:32:10] Request: GET /api/proxy
+[20:32:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:32:10] Request: GET /api/proxy
+[20:32:10] Proxy: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:32:10] Request: GET /api/proxy
+[20:32:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:32:10] Request: GET /api/proxy
+[20:32:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:32:10] Request: GET /api/proxy
+[20:32:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:32:21] Request: GET /api/apps
+[20:32:21] Request: GET /api/proxy
+[20:32:21] Request: GET /api/proxy
+[20:32:21] Proxy: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:32:21] Request: GET /api/proxy
+[20:32:21] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:32:21] Request: GET /api/proxy
+[20:32:21] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:32:21] Request: GET /api/proxy
+[20:32:21] Proxy: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:32:21] Proxy: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:32:21] Request: GET /api/proxy
+[20:32:21] Proxy: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:32:21] Proxy: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:32:21] Request: GET /api/proxy
+[20:32:21] Proxy: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:32:22] Request: GET /api/proxy
+[20:32:22] Proxy: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:32:22] Request: GET /api/proxy
+[20:32:22] Proxy: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:32:22] Request: GET /api/proxy
+[20:32:22] Proxy: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:32:22] Request: GET /api/proxy
+[20:32:22] Proxy: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:32:22] Request: GET /api/proxy
+[20:32:22] Proxy: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:32:25] Request: GET /api/apps
+[20:32:25] Request: GET /api/proxy
+[20:32:25] Request: GET /api/proxy
+[20:32:25] Proxy: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:32:25] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:32:25] Request: GET /api/proxy
+[20:32:25] Proxy: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:32:25] Request: GET /api/proxy
+[20:32:25] Proxy: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:32:25] Request: GET /api/proxy
+[20:32:25] Proxy: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:32:25] Request: GET /api/proxy
+[20:32:25] Proxy: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:32:25] Request: GET /api/proxy
+[20:32:25] Proxy: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:32:25] Request: GET /api/proxy
+[20:32:25] Proxy: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:32:25] Request: GET /api/proxy
+[20:32:25] Proxy: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:32:25] Request: GET /api/icon
+[20:32:25] Request: GET /api/icon
+[20:32:25] Request: GET /api/icon
+[20:32:25] Request: GET /api/icon
+[20:32:25] Request: GET /api/icon
+[20:32:25] Request: GET /api/icon
+[20:32:25] Request: GET /api/icon
+[20:32:25] Request: GET /api/icon
+[20:32:25] Request: GET /api/icon
+[20:32:36] Request: GET /api/apps
+[20:32:36] Request: GET /api/proxy
+[20:32:36] Request: GET /api/proxy
+[20:32:36] Proxy: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:32:36] Proxy: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:32:36] Request: GET /api/proxy
+[20:32:36] Request: GET /api/proxy
+[20:32:36] Proxy: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:32:36] Request: GET /api/proxy
+[20:32:36] Proxy: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:32:36] Request: GET /api/proxy
+[20:32:36] Proxy: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:32:36] Request: GET /api/proxy
+[20:32:36] Proxy: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:32:36] Request: GET /api/proxy
+[20:32:36] Proxy: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:32:37] Request: GET /api/proxy
+[20:32:37] Proxy: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:32:37] Request: GET /api/proxy
+[20:32:37] Proxy: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:32:37] Request: GET /api/proxy
+[20:32:37] Proxy: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:32:37] Request: GET /api/proxy
+[20:32:37] Proxy: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:32:40] Request: GET /api/apps
+[20:32:40] Request: GET /api/proxy
+[20:32:40] Request: GET /api/proxy
+[20:32:40] Proxy: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:32:40] Request: GET /api/proxy
+[20:32:40] Proxy: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:32:40] Request: GET /api/proxy
+[20:32:40] Proxy: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:32:40] Request: GET /api/proxy
+[20:32:40] Proxy: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:32:40] Request: GET /api/proxy
+[20:32:40] Proxy: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:32:40] Request: GET /api/proxy
+[20:32:40] Proxy: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:32:40] Request: GET /api/proxy
+[20:32:40] Proxy: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:32:40] Request: GET /api/proxy
+[20:32:40] Proxy: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:32:40] Request: GET /api/proxy
+[20:32:40] Proxy: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:32:51] Request: GET /api/apps
+[20:32:51] Request: GET /api/proxy
+[20:32:51] Request: GET /api/proxy
+[20:32:51] Proxy: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:32:51] Request: GET /api/proxy
+[20:32:51] Request: GET /api/proxy
+[20:32:51] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:32:51] Proxy: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:32:51] Request: GET /api/proxy
+[20:32:51] Proxy: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:32:51] Request: GET /api/proxy
+[20:32:51] Proxy: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:32:51] Request: GET /api/proxy
+[20:32:51] Proxy: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:32:52] Request: GET /api/proxy
+[20:32:52] Proxy: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:32:52] Request: GET /api/proxy
+[20:32:52] Proxy: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:32:52] Request: GET /api/proxy
+[20:32:52] Proxy: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:32:52] Request: GET /api/proxy
+[20:32:52] Proxy: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:32:52] Request: GET /api/proxy
+[20:32:52] Proxy: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:32:52] Request: GET /api/proxy
+[20:32:52] Proxy: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:32:55] Request: GET /api/apps
+[20:32:55] Request: GET /api/proxy
+[20:32:55] Request: GET /api/proxy
+[20:32:55] Proxy: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:32:55] Request: GET /api/proxy
+[20:32:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:32:55] Request: GET /api/proxy
+[20:32:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:32:55] Request: GET /api/proxy
+[20:32:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:32:55] Request: GET /api/proxy
+[20:32:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:32:55] Request: GET /api/proxy
+[20:32:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:32:55] Request: GET /api/proxy
+[20:32:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:32:55] Request: GET /api/proxy
+[20:32:55] Proxy: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:32:55] Request: GET /api/proxy
+[20:32:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:32:55] Request: GET /api/proxy
+[20:32:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:32:55] Request: GET /api/proxy
+[20:32:55] Proxy: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:33:06] Request: GET /api/apps
+[20:33:06] Request: GET /api/proxy
+[20:33:06] Request: GET /api/proxy
+[20:33:06] Proxy: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:33:06] Proxy: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:33:06] Request: GET /api/proxy
+[20:33:06] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:33:06] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:33:06] Request: GET /api/proxy
+[20:33:06] Request: GET /api/proxy
+[20:33:06] Proxy: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:33:06] Request: GET /api/proxy
+[20:33:06] Proxy: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:33:06] Proxy: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:33:06] Request: GET /api/proxy
+[20:33:06] Proxy: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:33:07] Request: GET /api/proxy
+[20:33:07] Proxy: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:33:07] Request: GET /api/proxy
+[20:33:07] Proxy: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:33:07] Request: GET /api/proxy
+[20:33:07] Proxy: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:33:07] Request: GET /api/proxy
+[20:33:07] Proxy: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:33:07] Request: GET /api/proxy
+[20:33:07] Proxy: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:33:10] Request: GET /api/apps
+[20:33:10] Request: GET /api/proxy
+[20:33:10] Proxy: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:33:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:33:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:33:10] Request: GET /api/proxy
+[20:33:10] Proxy: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:33:10] Request: GET /api/proxy
+[20:33:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:33:10] Request: GET /api/proxy
+[20:33:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:33:10] Request: GET /api/proxy
+[20:33:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:33:10] Request: GET /api/proxy
+[20:33:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:33:10] Request: GET /api/proxy
+[20:33:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:33:10] Request: GET /api/proxy
+[20:33:10] Proxy: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:33:10] Request: GET /api/proxy
+[20:33:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:33:10] Request: GET /api/proxy
+[20:33:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:33:10] Request: GET /api/proxy
+[20:33:10] Proxy: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:33:24] App gestartet.
+[20:33:24] Starte Listener auf Port 5050...
+[20:33:24] Server läuft!
+[20:33:24] Browser im App-Modus gestartet.
+[20:33:24] Request: GET /
+[20:33:24] Request: GET /icon.png
+[20:33:24] Request: GET /api/apps
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:33:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Request: GET /api/proxy
+[20:33:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Request: GET /api/icon
+[20:33:24] Request: GET /api/icon
+[20:33:24] Request: GET /api/icon
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:24] Request: GET /api/icon
+[20:33:24] Request: GET /api/icon
+[20:33:24] Request: GET /api/icon
+[20:33:24] Request: GET /api/icon
+[20:33:24] Request: GET /api/icon
+[20:33:24] Request: GET /api/icon
+[20:33:24] Request: GET /api/icon
+[20:33:25] Request: GET /api/icon
+[20:33:25] Request: GET /api/icon
+[20:33:25] Request: GET /api/apps
+[20:33:25] Request: GET /api/proxy
+[20:33:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:33:25] Request: GET /api/proxy
+[20:33:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:33:25] Request: GET /api/proxy
+[20:33:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:33:25] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:25] Request: GET /api/proxy
+[20:33:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:33:25] Request: GET /api/proxy
+[20:33:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:33:25] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:25] Request: GET /api/proxy
+[20:33:25] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:33:25] Request: GET /api/proxy
+[20:33:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:33:25] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:25] Request: GET /api/proxy
+[20:33:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:33:25] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:25] Request: GET /api/proxy
+[20:33:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:33:25] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:25] Request: GET /api/proxy
+[20:33:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:33:25] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:25] Request: GET /api/proxy
+[20:33:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:33:25] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:25] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:25] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:25] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:25] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:25] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /
+[20:33:39] Request: GET /icon.png
+[20:33:39] Request: GET /api/apps
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/icon
+[20:33:39] Request: GET /api/icon
+[20:33:39] Request: GET /api/icon
+[20:33:39] Request: GET /api/icon
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/icon
+[20:33:39] Request: GET /api/icon
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/icon
+[20:33:39] Request: GET /api/icon
+[20:33:39] Request: GET /api/icon
+[20:33:39] Request: GET /api/icon
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/icon
+[20:33:39] Request: GET /api/icon
+[20:33:39] Request: GET /api/icon
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/icon
+[20:33:39] Request: GET /api/apps
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:33:39] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:39] Request: GET /api/proxy
+[20:33:39] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Request: GET /api/apps
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Request: GET /api/proxy
+[20:33:40] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:40] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Request: GET /api/apps
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Request: GET /api/apps
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:33:54] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:54] Request: GET /api/proxy
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:33:54] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:55] Request: GET /api/proxy
+[20:33:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:33:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:55] Request: GET /api/proxy
+[20:33:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:33:55] Request: GET /api/proxy
+[20:33:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:55] Request: GET /api/apps
+[20:33:55] Request: GET /api/proxy
+[20:33:55] Request: GET /api/proxy
+[20:33:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:33:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:33:55] Request: GET /api/proxy
+[20:33:55] Request: GET /api/proxy
+[20:33:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:33:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:55] Request: GET /api/proxy
+[20:33:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:33:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:55] Request: GET /api/proxy
+[20:33:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:55] Request: GET /api/proxy
+[20:33:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:55] Request: GET /api/proxy
+[20:33:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:33:55] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:02] Request: GET /api/apps
+[20:34:02] Request: GET /api/proxy
+[20:34:02] Proxy Request: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:34:02] Request: GET /api/proxy
+[20:34:02] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:34:02] Proxy Request: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:34:02] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:02] Request: GET /api/proxy
+[20:34:02] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:34:02] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:02] Request: GET /api/proxy
+[20:34:02] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:34:02] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:02] Request: GET /api/proxy
+[20:34:02] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:34:02] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:02] Request: GET /api/proxy
+[20:34:02] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:34:03] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:03] Request: GET /api/proxy
+[20:34:03] Proxy Request: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:34:03] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:03] Request: GET /api/proxy
+[20:34:03] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:34:03] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:03] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:03] Request: GET /api/proxy
+[20:34:03] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:34:03] Request: GET /api/proxy
+[20:34:03] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:34:03] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:03] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:03] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/apps
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/icon
+[20:34:09] Request: GET /api/icon
+[20:34:09] Request: GET /api/icon
+[20:34:09] Request: GET /api/icon
+[20:34:09] Request: GET /api/icon
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/icon
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/icon
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/icon
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/icon
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/icon
+[20:34:09] Request: GET /api/apps
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:34:09] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:09] Request: GET /api/proxy
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:34:09] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Request: GET /api/proxy
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Request: GET /api/proxy
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:34:10] Request: GET /api/proxy
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Request: GET /api/apps
+[20:34:10] Request: GET /api/proxy
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:34:10] Request: GET /api/proxy
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Request: GET /api/proxy
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Request: GET /api/proxy
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Request: GET /api/proxy
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Request: GET /api/proxy
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Request: GET /api/proxy
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Request: GET /api/proxy
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Request: GET /api/proxy
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Request: GET /api/proxy
+[20:34:10] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:10] Proxy Error details: Die Anfrage wurde abgebrochen: Es konnte kein geschützter SSL/TLS-Kanal erstellt werden..
+[20:34:16] App gestartet.
+[20:34:16] Starte Listener auf Port 5050...
+[20:34:16] Server läuft!
+[20:34:16] Browser im App-Modus gestartet.
+[20:34:16] Request: GET /
+[20:34:16] Request: GET /icon.png
+[20:34:16] Request: GET /api/apps
+[20:34:16] Request: GET /api/proxy
+[20:34:16] Proxy Request: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:34:16] Request: GET /api/proxy
+[20:34:16] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:34:16] Request: GET /api/proxy
+[20:34:16] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa&l=german&cc=DE
+[20:34:16] Request: GET /api/proxy
+[20:34:16] Request: GET /api/proxy
+[20:34:16] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:34:16] Proxy Request: https://store.steampowered.com/api/storesearch/?term=BeamNG.drive&l=german&cc=DE
+[20:34:16] Request: GET /api/proxy
+[20:34:16] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:34:17] Request: GET /api/proxy
+[20:34:17] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:34:17] Request: GET /api/proxy
+[20:34:17] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:34:17] Request: GET /api/proxy
+[20:34:17] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:34:17] Request: GET /api/proxy
+[20:34:17] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:34:17] Request: GET /api/proxy
+[20:34:17] Proxy Request: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:34:17] Request: GET /api/proxy
+[20:34:17] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:34:18] Request: GET /api/proxy
+[20:34:18] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:34:18] Request: GET /api/proxy
+[20:34:18] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:34:18] Request: GET /api/icon
+[20:34:18] Request: GET /api/icon
+[20:34:18] Request: GET /api/icon
+[20:34:18] Request: GET /api/icon
+[20:34:18] Request: GET /api/icon
+[20:34:18] Request: GET /api/icon
+[20:34:18] Request: GET /api/icon
+[20:34:18] Request: GET /api/icon
+[20:34:18] Request: GET /api/icon
+[20:34:18] Request: GET /api/icon
+[20:34:18] Request: GET /api/icon
+[20:34:18] Request: GET /api/icon
+[20:34:18] Request: GET /api/icon
+[20:34:18] Request: GET /api/icon
+[20:34:24] Request: GET /api/apps
+[20:34:24] Request: GET /api/proxy
+[20:34:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=factorio&l=german&cc=DE
+[20:34:24] Request: GET /api/proxy
+[20:34:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Assetto%20Corsa%20Competizione&l=german&cc=DE
+[20:34:24] Request: GET /api/proxy
+[20:34:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Captain%20of%20Industry&l=german&cc=DE
+[20:34:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Air%20Defender&l=german&cc=DE
+[20:34:24] Request: GET /api/proxy
+[20:34:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Cities%20Skylines%20II&l=german&cc=DE
+[20:34:24] Request: GET /api/proxy
+[20:34:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Dyson%20Sphere%20Program&l=german&cc=DE
+[20:34:24] Request: GET /api/apps
+[20:34:24] Request: GET /api/proxy
+[20:34:24] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:34:25] Request: GET /api/proxy
+[20:34:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Le%20Mans%20Ultimate&l=german&cc=DE
+[20:34:25] Request: GET /api/proxy
+[20:34:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:34:25] Request: GET /api/proxy
+[20:34:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:34:25] Request: GET /api/proxy
+[20:34:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:34:25] Request: GET /api/proxy
+[20:34:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:34:25] Request: GET /api/apps
+[20:34:25] Request: GET /api/proxy
+[20:34:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Kerbal%20Space%20Program%202&l=german&cc=DE
+[20:34:25] Request: GET /api/proxy
+[20:34:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Satisfactory&l=german&cc=DE
+[20:34:25] Request: GET /api/proxy
+[20:34:25] Proxy Request: https://store.steampowered.com/api/storesearch/?term=No%20Man's%20Sky&l=german&cc=DE
+[20:34:26] Request: GET /api/proxy
+[20:34:26] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Timberborn&l=german&cc=DE
+[20:34:26] Request: GET /api/proxy
+[20:34:26] Proxy Request: https://store.steampowered.com/api/storesearch/?term=Spaceflight%20Simulator&l=german&cc=DE
+[20:34:30] Request: GET /
+[20:34:30] Request: GET /icon.png
+[20:34:30] Request: GET /api/apps
+[20:34:30] Request: GET /api/icon
+[20:34:30] Request: GET /api/icon
+[20:34:30] Request: GET /api/icon
+[20:34:30] Request: GET /api/icon
+[20:34:30] Request: GET /api/icon
+[20:34:30] Request: GET /api/icon
+[20:34:30] Request: GET /api/icon
+[20:34:30] Request: GET /api/icon
+[20:34:30] Request: GET /api/icon
+[20:34:30] Request: GET /api/icon
+[20:34:30] Request: GET /api/icon
+[20:34:31] Request: GET /api/apps
+[20:34:39] Request: GET /api/apps
+[20:34:40] Request: GET /api/apps
+[20:34:45] Request: GET /api/apps
+[20:34:46] Request: GET /api/apps
+[20:34:54] Request: GET /api/apps
+[20:34:55] Request: GET /api/apps
+[20:35:00] Request: GET /api/apps
+[20:35:01] Request: GET /api/apps
+[20:35:02] Request: GET /api/apps
+[20:35:09] Request: GET /api/apps
+[20:35:10] Request: GET /api/apps
+[20:35:15] Request: GET /api/apps
+[20:35:16] Request: GET /api/apps
+[20:35:24] Request: GET /api/apps
+[20:35:25] Request: GET /api/apps
+[20:35:30] Request: GET /api/apps
+[20:35:31] Request: GET /api/apps
+[20:35:39] Request: GET /api/apps
+[20:35:40] Request: GET /api/apps
+[20:35:45] Request: GET /api/apps
+[20:35:46] Request: GET /api/apps
+[20:35:54] Request: GET /api/apps
+[20:35:55] Request: GET /api/apps
+[20:36:00] Request: GET /api/apps
+[20:36:01] Request: GET /api/apps
+[20:36:02] Request: GET /api/apps
+[20:36:09] Request: GET /api/apps
+[20:36:10] Request: GET /api/apps
+[20:36:15] Request: GET /api/apps
+[20:36:16] Request: GET /api/apps
+[20:36:24] Request: GET /api/apps
+[20:36:25] Request: GET /api/apps
+[20:36:30] Request: GET /api/apps
+[20:36:31] Request: GET /api/apps
+[20:36:39] Request: GET /api/apps
+[20:36:40] Request: GET /api/apps
+[20:36:45] Request: GET /api/apps
+[20:36:55] Request: GET /api/apps
+[20:37:00] Request: GET /api/apps
+[20:37:10] Request: GET /api/apps
+[20:37:15] Request: GET /api/apps
+[20:37:25] Request: GET /api/apps
+[20:37:29] App gestartet.
+[20:37:29] Starte Listener auf Port 5050...
+[20:37:29] Server läuft!
+[20:37:29] Browser im App-Modus gestartet.
+[20:37:29] Request: GET /
+[20:37:29] Request: GET /icon.png
+[20:37:29] Request: GET /api/apps
+[20:37:29] Request: GET /api/icon
+[20:37:29] Request: GET /api/icon
+[20:37:29] Request: GET /api/icon
+[20:37:29] Request: GET /api/icon
+[20:37:29] Request: GET /api/icon
+[20:37:29] Request: GET /api/icon
+[20:37:29] Request: GET /api/icon
+[20:37:29] Request: GET /api/icon
+[20:37:29] Request: GET /icon.png
+[20:37:30] Request: GET /api/apps
+[20:37:37] App gestartet.
+[20:37:37] Starte Listener auf Port 5050...
+[20:37:37] Server läuft!
+[20:37:37] Browser im App-Modus gestartet.
+[20:37:37] Request: GET /
+[20:37:37] Request: GET /icon.png
+[20:37:37] Request: GET /api/apps
+[20:37:37] Request: GET /api/icon
+[20:37:37] Request: GET /api/icon
+[20:37:37] Request: GET /api/icon
+[20:37:37] Request: GET /api/icon
+[20:37:37] Request: GET /api/icon
+[20:37:37] Request: GET /api/icon
+[20:37:37] Request: GET /api/icon
+[20:37:37] Request: GET /api/icon
+[20:37:37] Request: GET /api/icon
+[20:37:37] Request: GET /api/icon
+[20:37:37] Request: GET /api/icon
+[20:37:37] Request: GET /api/icon
+[20:37:37] Request: GET /api/icon
+[20:37:37] Request: GET /icon.png
+[20:37:40] Request: GET /api/apps
+[20:37:45] Request: GET /api/apps
+[20:37:52] Request: GET /api/apps
+[20:37:55] Request: GET /api/apps
+[20:38:00] Request: GET /api/apps
+[20:38:07] Request: GET /api/apps
+[20:38:10] Request: GET /api/apps
+[20:38:15] Request: GET /api/apps
+[20:38:25] Request: GET /api/apps
+[20:38:30] Request: GET /api/apps
+[20:38:40] Request: GET /api/apps
+[20:38:45] Request: GET /api/apps
+[20:38:55] Request: GET /api/apps

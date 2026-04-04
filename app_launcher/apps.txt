@@ -1,0 +1,14 @@
+factorio|D:\Epic\RocketLeague\Factorio\bin\x64\factorio.exe
+Air Defender|D:\Epic\RocketLeague\Air.Defender.Early.Access\Air Defender.exe
+Assetto Corsa|D:\Epic\RocketLeague\Assetto Corsa\AssettoCorsa.exe
+Assetto Corsa Competizione|D:\Epic\RocketLeague\Assetto Corsa Competizione\acc.exe
+BeamNG.drive|D:\Epic\RocketLeague\BeamNG.drive\BeamNG.drive.exe
+Captain of Industry|D:\Epic\RocketLeague\Captain of Industry\Captain of Industry.exe
+Cities Skylines II|D:\Epic\RocketLeague\Cities Skylines II\Cities2.exe
+Dyson Sphere Program|D:\Epic\RocketLeague\Dyson Sphere Program\DSPGAME.exe
+Kerbal Space Program 2|D:\Epic\RocketLeague\Kerbal Space Program 2\KSP2_x64.exe
+Le Mans Ultimate|D:\Epic\RocketLeague\Le Mans Ultimate\Le Mans Ultimate.exe
+No Man's Sky|D:\Epic\RocketLeague\No Man's Sky\Binaries\NMS.exe
+Satisfactory|D:\Epic\RocketLeague\Satisfactory\FactoryGameSteam.exe
+Spaceflight Simulator|D:\Epic\RocketLeague\Spaceflight Simulator v1.5.9.8\Spaceflight Simulator.exe
+Timberborn|D:\Epic\RocketLeague\Timberborn v0.2.5.1\Timberborn.exe
