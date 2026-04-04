@@ -12,3 +12,4 @@ No Man's Sky|D:\Epic\RocketLeague\No Man's Sky\Binaries\NMS.exe
 Satisfactory|D:\Epic\RocketLeague\Satisfactory\FactoryGameSteam.exe
 Spaceflight Simulator|D:\Epic\RocketLeague\Spaceflight Simulator v1.5.9.8\Spaceflight Simulator.exe
 Timberborn|D:\Epic\RocketLeague\Timberborn v0.2.5.1\Timberborn.exe
+NMS|D:\Epic\RocketLeague\No Mans Sky\Binaries\NMS.exe

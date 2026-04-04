@@ -1141,3 +1141,41 @@
 [20:38:40] Request: GET /api/apps
 [20:38:45] Request: GET /api/apps
 [20:38:55] Request: GET /api/apps
+[20:39:00] Request: GET /api/apps
+[20:39:10] Request: GET /api/apps
+[20:39:15] Request: GET /api/apps
+[20:39:25] Request: GET /api/apps
+[20:39:30] Request: GET /api/apps
+[23:50:19] App gestartet.
+[23:50:19] Starte Listener auf Port 5050...
+[23:50:19] Server läuft!
+[23:50:19] Browser im App-Modus gestartet.
+[23:50:20] Request: GET /
+[23:50:20] Request: GET /icon.png
+[23:50:20] Request: GET /api/apps
+[23:50:20] Request: GET /api/icon
+[23:50:20] Request: GET /api/icon
+[23:50:20] Request: GET /api/icon
+[23:50:20] Request: GET /api/icon
+[23:50:20] Request: GET /api/icon
+[23:50:20] Request: GET /api/icon
+[23:50:20] Request: GET /api/icon
+[23:50:20] Request: GET /api/icon
+[23:50:20] Request: GET /api/icon
+[23:50:20] Request: GET /api/icon
+[23:50:20] Request: GET /api/icon
+[23:50:21] Request: GET /api/icon
+[23:50:21] Request: GET /api/icon
+[23:50:21] Request: GET /icon.png
+[23:50:24] Request: POST /api/add
+[23:50:35] Request: GET /api/apps
+[23:50:50] Request: GET /api/apps
+[23:50:55] Request: GET /api/apps
+[23:50:55] Request: GET /api/proxy
+[23:50:55] Proxy Request: https://store.steampowered.com/api/storesearch/?term=NMS&l=german&cc=DE
+[23:50:55] Request: GET /api/icon
+[23:51:05] Request: GET /api/apps
+[23:51:05] Request: GET /api/proxy
+[23:51:05] Proxy Request: https://store.steampowered.com/api/storesearch/?term=NMS&l=german&cc=DE
+[23:51:07] Request: POST /api/launch
+[23:51:09] Request: POST /api/launch
