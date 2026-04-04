@@ -1,2 +1,0 @@
-# wt-rp-calculator
-test
